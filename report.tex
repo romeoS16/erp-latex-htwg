@@ -1,6 +1,38 @@
-\documentclass[]{htwg-report}
+\documentclass[german, oneside]{htwg-report}
 
 \addbibresource{./bib/report.bib}
+
+\usepackage{float}
+
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{xcolor}
+\usepackage{listings}
+
+\usepackage{tabularx}
+\usepackage{booktabs}
+\usepackage{array}
+
+\usepackage{pdfpages}
+
+\lstset{
+  language=Java,
+  basicstyle=\ttfamily\small,
+  breaklines=true,
+  columns=fullflexible,
+  showstringspaces=false,
+  keepspaces=true,
+  tabsize=4,
+  frame=none,
+  backgroundcolor=\color{white},
+  keywordstyle=\bfseries\color{blue!60!black},
+  commentstyle=\itshape\color{green!40!black},
+  stringstyle=\color{orange!70!black},
+  numbers=left,
+  numberstyle=\tiny\color{black!50},
+  numbersep=8pt, 
+  captionpos=b
+}
 
 \begin{document}
 
