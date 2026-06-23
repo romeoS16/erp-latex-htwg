@@ -27,6 +27,9 @@
 
 \LoadClass[11pt]{book}
 
+\usepackage{tikz}
+\usetikzlibrary{arrows.meta,calc,positioning}
+
 \RequirePackage{setspace}
 \onehalfspacing
 
