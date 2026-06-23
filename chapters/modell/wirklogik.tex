@@ -1,0 +1,165 @@
+
+Das ERP-KMU-Fit-Modell konzentriert sich auf Voraussetzungen, die vor Beginn
+der Implementierung in ausreichendem Maß vorhanden sein müssen. Es beschreibt
+damit nicht die späteren Wirkungen eines bereits genutzten ERP-Systems, sondern
+die Implementierungsbereitschaft eines KMU. Die einzelnen Fit-Dimensionen
+wirken dabei nicht unabhängig voneinander, sondern bauen in der Vorbereitung
+eines ERP-Projekts aufeinander auf.
+
+Den Ausgangspunkt bildet der Strategie-Fit. Er konkretisiert, welchen
+strategischen Beitrag das ERP-System leisten soll, welche Ziele verfolgt werden
+und welche Anforderungen daraus für Projektumfang und Systemauswahl entstehen.
+Eine klare strategische Orientierung schafft damit die Grundlage für ein
+realistisch abgegrenztes ERP-Projekt und für die Auswahl einer zum Unternehmen
+passenden Lösung \parencite{Leyh2015,Jha2008}.
+
+Der Ressourcen-Fit wirkt als Ermöglichungsbedingung für die weitere
+Vorbereitung. Nur wenn ausreichende finanzielle, personelle, zeitliche und
+fachliche Kapazitäten verfügbar sind, können notwendige Vorarbeiten wie
+Ist-Analysen, Projektplanung, Prozessaufnahme, Datenbereinigung und die
+Klärung von Verantwortlichkeiten mit ausreichender Sorgfalt durchgeführt
+werden \parencite{Leyh2015,Jha2008}.
+
+Auf dieser Grundlage werden Prozess-Fit, Verantwortlichkeits-Fit und Daten-Fit
+hergestellt beziehungsweise bewertet. Prozess-Fit stellt sicher, dass zentrale
+Abläufe und Anforderungen ausreichend klar sind, um eine passende
+Systemkonfiguration und Migrationsplanung vorzubereiten. Verantwortlichkeits-
+Fit legt fest, wer Projektentscheidungen, Prozessfreigaben und Datenpflege
+übernimmt. Daten-Fit zeigt schließlich, ob relevante Unternehmensdaten in einer
+ausreichenden Qualität vorliegen und in das ERP-System überführt werden können
+\parencite{Leyh2015,Xia2009,Jha2008}.
+
+ERP-Implementierungsbereitschaft liegt vor, wenn keine dieser Dimensionen
+isoliert betrachtet wird und alle Voraussetzungen in einem angemessenen
+Mindestmaß erfüllt sind. Defizite in einer Dimension können die Vorbereitung in
+anderen Bereichen beeinträchtigen. Beispielsweise erschweren fehlende
+Ressourcen die Prozessanalyse und Datenbereinigung, während unklare Prozesse
+und Verantwortlichkeiten die Systemauswahl sowie die Datenmigration
+zusätzlich belasten können.
+
+Systemtests, Schulungen, Go-Live und die spätere ERP-Nutzung sind nicht Teil
+dieser Wirklogik. Sie setzen zeitlich erst nach der hier betrachteten
+Implementierungsbereitschaft ein und werden daher im Modell nicht als
+Voraussetzungen der ERP-Einführung eingeordnet.
+
+\begin{figure}[htbp]
+  \centering
+
+  % Benötigt in der Präambel:
+  % \usepackage{tikz}
+  % \usetikzlibrary{arrows.meta,calc,positioning}
+
+  \begin{tikzpicture}[
+    node distance=10mm and 16mm,
+    fitbox/.style={
+      draw,
+      rounded corners=2pt,
+      align=center,
+      text width=4.2cm,
+      minimum height=11mm,
+      inner sep=5pt
+    },
+    inputbox/.style={
+      draw,
+      rounded corners=2pt,
+      align=center,
+      text width=4.2cm,
+      minimum height=11mm,
+      inner sep=5pt
+    },
+    dimbox/.style={
+      draw,
+      rounded corners=2pt,
+      align=center,
+      text width=3.05cm,
+      minimum height=13mm,
+      inner sep=5pt
+    },
+    outputbox/.style={
+      draw,
+      rounded corners=2pt,
+      align=center,
+      text width=7.4cm,
+      minimum height=13mm,
+      inner sep=5pt,
+      font=\bfseries
+    },
+    arrow/.style={
+      -{Latex[length=2.2mm]},
+      thick
+    }
+  ]
+
+    \node[fitbox] (strategy) {
+      Strategie-Fit\\
+      Zielbild, Nutzen, Projektumfang\\
+      und Auswahlkriterien
+    };
+
+    \node[fitbox, right=of strategy] (resources) {
+      Ressourcen-Fit\\
+      Budget, Zeit, Personal\\
+      und Fachwissen
+    };
+
+    \node[inputbox, below=of strategy] (orientation) {
+      Strategische Projektorientierung\\
+      Prioritäten und passende\\
+      Systemauswahl
+    };
+
+    \node[inputbox, below=of resources] (capacity) {
+      Kapazität für Vorbereitung\\
+      und Projektplanung
+    };
+
+    \node[fitbox, below=15mm of $(orientation)!0.5!(capacity)$] (preparation) {
+      ERP-Vorbereitung\\
+      Ist-Analyse, Planung, Koordination\\
+      und Vorbereitung der Einführung
+    };
+
+    \node[dimbox, below left=13mm and 12mm of preparation] (process) {
+      Prozess-Fit\\
+      Klare Abläufe und\\
+      Anforderungen
+    };
+
+    \node[dimbox, below=13mm of preparation] (roles) {
+      Verantwortlichkeits-Fit\\
+      Rollen, Entscheidungen\\
+      und Datenpflege
+    };
+
+    \node[dimbox, below right=13mm and 12mm of preparation] (data) {
+      Daten-Fit\\
+      Qualität, Konsistenz\\
+      und Migrationsfähigkeit
+    };
+
+    \node[outputbox, below=15mm of roles] (readiness) {
+      ERP-Implementierungsbereitschaft\\
+      Voraussetzungen für eine wirksame ERP-Einführung im KMU
+    };
+
+    \draw[arrow] (strategy) -- (orientation);
+    \draw[arrow] (resources) -- (capacity);
+
+    \draw[arrow] (orientation.south) -- (preparation.north west);
+    \draw[arrow] (capacity.south) -- (preparation.north east);
+
+    \draw[arrow] (preparation.south) -| (process.north);
+    \draw[arrow] (preparation.south) -- (roles.north);
+    \draw[arrow] (preparation.south) -| (data.north);
+
+    \draw[arrow] (process.south) |- (readiness.north west);
+    \draw[arrow] (roles.south) -- (readiness.north);
+    \draw[arrow] (data.south) |- (readiness.north east);
+
+  \end{tikzpicture}
+
+  \caption{Wirklogik des ERP-KMU-Fit-Modells, eigene Darstellung auf Basis der
+  ausgewerteten Literatur}
+  \label{fig:erp-kmu-fit-wirklogik}
+\end{figure}
+
