@@ -16,5 +16,642 @@
   {}
 \endgroup
 
+
+\refsection{0}
+  \datalist[entry]{ynt/global//global/global/global}
+    \entry{Jha2008}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=d29c495d8df6b0748f98ba62475e28e5}{%
+           family={Jha},
+           familyi={J\bibinitperiod},
+           given={Rashmi},
+           giveni={R\bibinitperiod}}}%
+        {{hash=1c1709c396348ac02ba171ee2c632401}{%
+           family={Hoda},
+           familyi={H\bibinitperiod},
+           given={M.\bibnamedelimi N.},
+           giveni={M\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=9bbf85cd52eae7ee3f0cabc772d8cf06}{%
+           family={Saini},
+           familyi={S\bibinitperiod},
+           given={A.\bibnamedelimi K.},
+           giveni={A\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{03233640dad4103ba84286e276696586}
+      \strng{fullhash}{03233640dad4103ba84286e276696586}
+      \strng{fullhashraw}{03233640dad4103ba84286e276696586}
+      \strng{bibnamehash}{03233640dad4103ba84286e276696586}
+      \strng{authorbibnamehash}{03233640dad4103ba84286e276696586}
+      \strng{authornamehash}{03233640dad4103ba84286e276696586}
+      \strng{authorfullhash}{03233640dad4103ba84286e276696586}
+      \strng{authorfullhashraw}{03233640dad4103ba84286e276696586}
+      \field{labelalpha}{JHS08}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Implementing Best Practices in {ERP} for Small \& Medium Enterprises}
+      \field{year}{2008}
+      \verb{doi}
+      \verb 10.1109/AMIGE.2008.ECP.51
+      \endverb
+    \endentry
+    \entry{Nach2008}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=925c69f92a62ea2df0b30bceac15fc3d}{%
+           family={Nach},
+           familyi={N\bibinitperiod},
+           given={Hamid},
+           giveni={H\bibinitperiod}}}%
+        {{hash=e67b778a9a4544a522f527aff1150900}{%
+           family={Lejeune},
+           familyi={L\bibinitperiod},
+           given={Albert},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{551faf8c0251e9f86bfc2e97763760e4}
+      \strng{fullhash}{551faf8c0251e9f86bfc2e97763760e4}
+      \strng{fullhashraw}{551faf8c0251e9f86bfc2e97763760e4}
+      \strng{bibnamehash}{551faf8c0251e9f86bfc2e97763760e4}
+      \strng{authorbibnamehash}{551faf8c0251e9f86bfc2e97763760e4}
+      \strng{authornamehash}{551faf8c0251e9f86bfc2e97763760e4}
+      \strng{authorfullhash}{551faf8c0251e9f86bfc2e97763760e4}
+      \strng{authorfullhashraw}{551faf8c0251e9f86bfc2e97763760e4}
+      \field{labelalpha}{NL08}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International MCETECH Conference on e-Technologies}
+      \field{title}{Implementing ERP in SMEs: Towards an Ontology Supporting Managerial Decisions}
+      \field{year}{2008}
+      \verb{doi}
+      \verb 10.1109/MCETECH.2008.11
+      \endverb
+    \endentry
+    \entry{Noudoostbeni2009}{inproceedings}{}{}
+      \name{author}{3}{}{%
+        {{hash=401b8a062302ab6c8272f361ed3df652}{%
+           family={Noudoostbeni},
+           familyi={N\bibinitperiod},
+           given={Ali},
+           giveni={A\bibinitperiod}}}%
+        {{hash=f9d90bb02a6a2b1ab7fbc0b7fd3ef156}{%
+           family={Yasin},
+           familyi={Y\bibinitperiod},
+           given={Norizan\bibnamedelima Mohd},
+           giveni={N\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=ab8325230845ff51c5aab762fbce4a4b}{%
+           family={Jenatabadi},
+           familyi={J\bibinitperiod},
+           given={Hashem\bibnamedelima Salarzadeh},
+           giveni={H\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{fdadcc686996e32d2573d5de67469e66}
+      \strng{fullhash}{fdadcc686996e32d2573d5de67469e66}
+      \strng{fullhashraw}{fdadcc686996e32d2573d5de67469e66}
+      \strng{bibnamehash}{fdadcc686996e32d2573d5de67469e66}
+      \strng{authorbibnamehash}{fdadcc686996e32d2573d5de67469e66}
+      \strng{authornamehash}{fdadcc686996e32d2573d5de67469e66}
+      \strng{authorfullhash}{fdadcc686996e32d2573d5de67469e66}
+      \strng{authorfullhashraw}{fdadcc686996e32d2573d5de67469e66}
+      \field{labelalpha}{NYJ09}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2009 International Conference on Information Management and Engineering ({ICIME})}
+      \field{title}{To Investigate the Success and Failure Factors of {ERP} Implementation within Malaysian Small and Medium Enterprises}
+      \field{year}{2009}
+      \field{pages}{157\bibrangedash 160}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1109/ICIME.2009.66
+      \endverb
+      \keyw{enterprise resource planning,SMEs,success factors,failure factors}
+    \endentry
+    \entry{Shiau2009}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=534d7b46c27348c180f9f5a94165555f}{%
+           family={Shiau},
+           familyi={S\bibinitperiod},
+           given={Wen-Lung},
+           giveni={W\bibinithyphendelim L\bibinitperiod}}}%
+        {{hash=bf814222e9a67485a55a56bc3c2e0256}{%
+           family={Hsu},
+           familyi={H\bibinitperiod},
+           given={Ping-Yu},
+           giveni={P\bibinithyphendelim Y\bibinitperiod}}}%
+        {{hash=2a8620e419092b970bfe0acc3766ef22}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Jun-Zhong},
+           giveni={J\bibinithyphendelim Z\bibinitperiod}}}%
+      }
+      \strng{namehash}{5ab5d7a5e32e732698c6851e038fb0f8}
+      \strng{fullhash}{5ab5d7a5e32e732698c6851e038fb0f8}
+      \strng{fullhashraw}{5ab5d7a5e32e732698c6851e038fb0f8}
+      \strng{bibnamehash}{5ab5d7a5e32e732698c6851e038fb0f8}
+      \strng{authorbibnamehash}{5ab5d7a5e32e732698c6851e038fb0f8}
+      \strng{authornamehash}{5ab5d7a5e32e732698c6851e038fb0f8}
+      \strng{authorfullhash}{5ab5d7a5e32e732698c6851e038fb0f8}
+      \strng{authorfullhashraw}{5ab5d7a5e32e732698c6851e038fb0f8}
+      \field{labelalpha}{SHW09}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Enterprise Information Management}
+      \field{number}{1/2}
+      \field{title}{Development of measures to assess the {ERP} adoption of small and medium enterprises}
+      \field{volume}{22}
+      \field{year}{2009}
+      \field{pages}{99\bibrangedash 118}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.1108/17410390910922859
+      \endverb
+      \keyw{information systems,manufacturing resource planning,small to medium-sized enterprises}
+    \endentry
+    \entry{Xia2009}{inproceedings}{}{}
+      \name{author}{3}{}{%
+        {{hash=9b60773bcfaa7e30098138b59fdbdaaf}{%
+           family={Xia},
+           familyi={X\bibinitperiod},
+           given={Yuanqiang},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=354c0d55b2153f2e2368f0abccee343f}{%
+           family={Lok},
+           familyi={L\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+        {{hash=3421cd55be1f59dc6044dcf9b10a48fb}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Song},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{6ddba3b9d7aade4eb3faadd083d8323e}
+      \strng{fullhash}{6ddba3b9d7aade4eb3faadd083d8323e}
+      \strng{fullhashraw}{6ddba3b9d7aade4eb3faadd083d8323e}
+      \strng{bibnamehash}{6ddba3b9d7aade4eb3faadd083d8323e}
+      \strng{authorbibnamehash}{6ddba3b9d7aade4eb3faadd083d8323e}
+      \strng{authornamehash}{6ddba3b9d7aade4eb3faadd083d8323e}
+      \strng{authorfullhash}{6ddba3b9d7aade4eb3faadd083d8323e}
+      \strng{authorfullhashraw}{6ddba3b9d7aade4eb3faadd083d8323e}
+      \field{labelalpha}{XLY09}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2009 6th International Conference on Service Systems and Service Management ({ICSSSM})}
+      \field{title}{The {ERP} Implementation of {SME} in China}
+      \field{year}{2009}
+      \field{pages}{135\bibrangedash 140}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/ICSSSM.2009.5174870
+      \endverb
+      \keyw{ERP,implementation of ERP,SME}
+    \endentry
+    \entry{Haddara2011}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=62ca47a36998d9cb36143d9cb85562f5}{%
+           family={Haddara},
+           familyi={H\bibinitperiod},
+           given={Moutaz},
+           giveni={M\bibinitperiod}}}%
+        {{hash=2a28ca6b81c58c190825420ef0249462}{%
+           family={Zach},
+           familyi={Z\bibinitperiod},
+           given={Ondrej},
+           giveni={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{aea1535316f9e589a5c302415b36e8e2}
+      \strng{fullhash}{aea1535316f9e589a5c302415b36e8e2}
+      \strng{fullhashraw}{aea1535316f9e589a5c302415b36e8e2}
+      \strng{bibnamehash}{aea1535316f9e589a5c302415b36e8e2}
+      \strng{authorbibnamehash}{aea1535316f9e589a5c302415b36e8e2}
+      \strng{authornamehash}{aea1535316f9e589a5c302415b36e8e2}
+      \strng{authorfullhash}{aea1535316f9e589a5c302415b36e8e2}
+      \strng{authorfullhashraw}{aea1535316f9e589a5c302415b36e8e2}
+      \field{labelalpha}{HZ11}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{ERP Systems in SMEs: A Literature Review}
+      \field{year}{2011}
+      \field{pages}{1\bibrangedash 10}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1109/HICSS.2011.191
+      \endverb
+    \endentry
+    \entry{Setiawati2014}{inproceedings}{}{}
+      \name{author}{2}{}{%
+        {{hash=cd38ded3286e4ab1d2705fe7fbd5bced}{%
+           family={Setiawati},
+           familyi={S\bibinitperiod},
+           given={Dede\bibnamedelima Wahyuni},
+           giveni={D\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=23b7035265dd5234249ee32788a4a3b2}{%
+           family={Rohayati},
+           familyi={R\bibinitperiod},
+           given={Yati},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{6526a84bf5ff8438d29118b6727f66d9}
+      \strng{fullhash}{6526a84bf5ff8438d29118b6727f66d9}
+      \strng{fullhashraw}{6526a84bf5ff8438d29118b6727f66d9}
+      \strng{bibnamehash}{6526a84bf5ff8438d29118b6727f66d9}
+      \strng{authorbibnamehash}{6526a84bf5ff8438d29118b6727f66d9}
+      \strng{authornamehash}{6526a84bf5ff8438d29118b6727f66d9}
+      \strng{authorfullhash}{6526a84bf5ff8438d29118b6727f66d9}
+      \strng{authorfullhashraw}{6526a84bf5ff8438d29118b6727f66d9}
+      \field{labelalpha}{SR14}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2014 International Conference on {ICT} For Smart Society ({ICISS})}
+      \field{title}{Implementing {Enterprise Resource Planning} ({ERP}) in Sales Information System ({SIS}) of {SME} ({Small Medium Enterprise}) {Abo Farm Indonesia}}
+      \field{year}{2014}
+      \field{pages}{169\bibrangedash 175}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1109/ICTSS.2014.7013168
+      \endverb
+      \keyw{sales information system,ERP,business process proposal,small medium enterprise}
+    \endentry
+    \entry{Leyh2015}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=ccd0bf4061ce91c259c0d55f03e13d8a}{%
+           family={Leyh},
+           familyi={L\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{ccd0bf4061ce91c259c0d55f03e13d8a}
+      \strng{fullhash}{ccd0bf4061ce91c259c0d55f03e13d8a}
+      \strng{fullhashraw}{ccd0bf4061ce91c259c0d55f03e13d8a}
+      \strng{bibnamehash}{ccd0bf4061ce91c259c0d55f03e13d8a}
+      \strng{authorbibnamehash}{ccd0bf4061ce91c259c0d55f03e13d8a}
+      \strng{authornamehash}{ccd0bf4061ce91c259c0d55f03e13d8a}
+      \strng{authorfullhash}{ccd0bf4061ce91c259c0d55f03e13d8a}
+      \strng{authorfullhashraw}{ccd0bf4061ce91c259c0d55f03e13d8a}
+      \field{extraname}{1}
+      \field{labelalpha}{Ley15}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{HMD Praxis der Wirtschaftsinformatik}
+      \field{title}{Implementierung von {ERP}-Systemen in {KMU}: Ein Vorgehensmodell auf Basis von kritischen Erfolgsfaktoren}
+      \field{volume}{52}
+      \field{year}{2015}
+      \field{pages}{418\bibrangedash 432}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1365/s40702-015-0135-3
+      \endverb
+      \keyw{ERP-Systeme,Vorgehensmodell,KMU,Systemauswahl,Systemeinführung}
+    \endentry
+    \entry{Tereshchenko2016}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=bf14764173158bf522c5a26c06f1cf51}{%
+           family={Tereshchenko},
+           familyi={T\bibinitperiod},
+           given={Igor},
+           giveni={I\bibinitperiod}}}%
+        {{hash=f8daaa8b7650a0662f5f14360ff92e02}{%
+           family={Shtangey},
+           familyi={S\bibinitperiod},
+           given={Svetlana},
+           giveni={S\bibinitperiod}}}%
+        {{hash=4fd547f612c1907f761543a6dedb1666}{%
+           family={Tereshchenko},
+           familyi={T\bibinitperiod},
+           given={Anton},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{ca53bcb5a32d0520d5b54849b15974c9}
+      \strng{fullhash}{ca53bcb5a32d0520d5b54849b15974c9}
+      \strng{fullhashraw}{ca53bcb5a32d0520d5b54849b15974c9}
+      \strng{bibnamehash}{ca53bcb5a32d0520d5b54849b15974c9}
+      \strng{authorbibnamehash}{ca53bcb5a32d0520d5b54849b15974c9}
+      \strng{authornamehash}{ca53bcb5a32d0520d5b54849b15974c9}
+      \strng{authorfullhash}{ca53bcb5a32d0520d5b54849b15974c9}
+      \strng{authorfullhashraw}{ca53bcb5a32d0520d5b54849b15974c9}
+      \field{labelalpha}{TST16}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Application SAP ERP Principles for the Development and Implementation of Corporate Integrated Information System for SME}
+      \field{year}{2016}
+      \verb{doi}
+      \verb 10.1109/INFOCOMMST.2016.7905361
+      \endverb
+    \endentry
+    \entry{Leyh2017}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=ccd0bf4061ce91c259c0d55f03e13d8a}{%
+           family={Leyh},
+           familyi={L\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod}}}%
+        {{hash=64da413526d670a020a8b392eac14de7}{%
+           family={Wendt},
+           familyi={W\bibinitperiod},
+           given={Tina},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{c5acbede7f3007c36a2b0636e2b168b1}
+      \strng{fullhash}{c5acbede7f3007c36a2b0636e2b168b1}
+      \strng{fullhashraw}{c5acbede7f3007c36a2b0636e2b168b1}
+      \strng{bibnamehash}{c5acbede7f3007c36a2b0636e2b168b1}
+      \strng{authorbibnamehash}{c5acbede7f3007c36a2b0636e2b168b1}
+      \strng{authornamehash}{c5acbede7f3007c36a2b0636e2b168b1}
+      \strng{authorfullhash}{c5acbede7f3007c36a2b0636e2b168b1}
+      \strng{authorfullhashraw}{c5acbede7f3007c36a2b0636e2b168b1}
+      \field{labelalpha}{LW17}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Enterprise Systems als Basis der Unternehmens-Digitalisierung}
+      \field{year}{2017}
+      \field{pages}{9\bibrangedash 24}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1365/s40702-017-0389-z
+      \endverb
+    \endentry
+    \entry{Leyh2019}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=ccd0bf4061ce91c259c0d55f03e13d8a}{%
+           family={Leyh},
+           familyi={L\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{ccd0bf4061ce91c259c0d55f03e13d8a}
+      \strng{fullhash}{ccd0bf4061ce91c259c0d55f03e13d8a}
+      \strng{fullhashraw}{ccd0bf4061ce91c259c0d55f03e13d8a}
+      \strng{bibnamehash}{ccd0bf4061ce91c259c0d55f03e13d8a}
+      \strng{authorbibnamehash}{ccd0bf4061ce91c259c0d55f03e13d8a}
+      \strng{authornamehash}{ccd0bf4061ce91c259c0d55f03e13d8a}
+      \strng{authorfullhash}{ccd0bf4061ce91c259c0d55f03e13d8a}
+      \strng{authorfullhashraw}{ccd0bf4061ce91c259c0d55f03e13d8a}
+      \field{extraname}{2}
+      \field{labelalpha}{Ley19}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Controlling \& Management Review}
+      \field{number}{5}
+      \field{title}{Passende {ERP}-Systeme auswählen und einführen}
+      \field{volume}{63}
+      \field{year}{2019}
+      \field{pages}{52\bibrangedash 57}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1007/s12176-019-0027-4
+      \endverb
+    \endentry
+    \entry{Subanidja2019}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=2e7444a19de06cba024f047d3f9f3eb4}{%
+           family={Subanidja},
+           familyi={S\bibinitperiod},
+           given={Steph},
+           giveni={S\bibinitperiod}}}%
+        {{hash=a48ad033052e102546b747c6a9e9ac4c}{%
+           family={Legowo},
+           familyi={L\bibinitperiod},
+           given={Mercurius\bibnamedelima Broto},
+           giveni={M\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \strng{namehash}{53eb7e24a0ae5db87a3c5bcef1ea32d1}
+      \strng{fullhash}{53eb7e24a0ae5db87a3c5bcef1ea32d1}
+      \strng{fullhashraw}{53eb7e24a0ae5db87a3c5bcef1ea32d1}
+      \strng{bibnamehash}{53eb7e24a0ae5db87a3c5bcef1ea32d1}
+      \strng{authorbibnamehash}{53eb7e24a0ae5db87a3c5bcef1ea32d1}
+      \strng{authornamehash}{53eb7e24a0ae5db87a3c5bcef1ea32d1}
+      \strng{authorfullhash}{53eb7e24a0ae5db87a3c5bcef1ea32d1}
+      \strng{authorfullhashraw}{53eb7e24a0ae5db87a3c5bcef1ea32d1}
+      \field{labelalpha}{SL19}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{European Research Studies Journal}
+      \field{number}{3}
+      \field{title}{Financial Constraints Help the {ERP} System Success Improving the {SMEs}' Performance: An Empirical Study}
+      \field{volume}{XXII}
+      \field{year}{2019}
+      \field{pages}{294\bibrangedash 304}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.35808/ersj/1471
+      \endverb
+      \keyw{financial constraints,ERP system success,SMEs performance,Indonesia}
+    \endentry
+    \entry{Alaskari2021}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=21b7e79400e5b516b02e120f5a293101}{%
+           family={Alaskari},
+           familyi={A\bibinitperiod},
+           given={O.},
+           giveni={O\bibinitperiod}}}%
+        {{hash=3d59d6b1ff2d27affe657981100306b9}{%
+           family={Pinedo-Cuenca},
+           familyi={P\bibinithyphendelim C\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=4f707d305c641d7bfefa3737b66bc8bc}{%
+           family={Ahmad},
+           familyi={A\bibinitperiod},
+           given={M.\bibnamedelimi M.},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{b6b0cda4785d1ee0155d9de46c293797}
+      \strng{fullhash}{b6b0cda4785d1ee0155d9de46c293797}
+      \strng{fullhashraw}{b6b0cda4785d1ee0155d9de46c293797}
+      \strng{bibnamehash}{b6b0cda4785d1ee0155d9de46c293797}
+      \strng{authorbibnamehash}{b6b0cda4785d1ee0155d9de46c293797}
+      \strng{authornamehash}{b6b0cda4785d1ee0155d9de46c293797}
+      \strng{authorfullhash}{b6b0cda4785d1ee0155d9de46c293797}
+      \strng{authorfullhashraw}{b6b0cda4785d1ee0155d9de46c293797}
+      \field{labelalpha}{APA21}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Procedia Manufacturing}
+      \field{title}{Framework for Implementation of {Enterprise Resource Planning} ({ERP}) Systems in Small and Medium Enterprises ({SMEs}): A Case Study}
+      \field{volume}{55}
+      \field{year}{2021}
+      \field{pages}{424\bibrangedash 430}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1016/j.promfg.2021.10.058
+      \endverb
+      \keyw{ERP system,SMEs,ERP implementation}
+    \endentry
+    \entry{Faruque2024}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=81fec58d8cdbf94459323b555bab39eb}{%
+           family={Faruque},
+           familyi={F\bibinitperiod},
+           given={Md\bibnamedelima Omar},
+           giveni={M\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+        {{hash=e5c39c871bb5025b31f155bf68539ba8}{%
+           family={Chowdhury},
+           familyi={C\bibinitperiod},
+           given={Saddam\bibnamedelima Nasir},
+           giveni={S\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=7cba49f0a9ee898531aa1e2c62935ce0}{%
+           family={Rabbani},
+           familyi={R\bibinitperiod},
+           given={Md.\bibnamedelimi Golam},
+           giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=3540ab6366319099eaa51d305f3a0a39}{%
+           family={Khan},
+           familyi={K\bibinitperiod},
+           given={Nure\bibnamedelima Alam},
+           giveni={N\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{061624413d17924f14123ed55a076de1}
+      \strng{fullhash}{84732bc7203c9b4d244ced73aa5304eb}
+      \strng{fullhashraw}{84732bc7203c9b4d244ced73aa5304eb}
+      \strng{bibnamehash}{061624413d17924f14123ed55a076de1}
+      \strng{authorbibnamehash}{061624413d17924f14123ed55a076de1}
+      \strng{authornamehash}{061624413d17924f14123ed55a076de1}
+      \strng{authorfullhash}{84732bc7203c9b4d244ced73aa5304eb}
+      \strng{authorfullhashraw}{84732bc7203c9b4d244ced73aa5304eb}
+      \field{labelalpha}{Far+24}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2582-2160}
+      \field{journaltitle}{International Journal for Multidisciplinary Research (IJFMR)}
+      \field{month}{9}
+      \field{note}{Article ID: IJFMR240529207}
+      \field{number}{5}
+      \field{title}{Technology Adoption and Digital Transformation in Small Businesses: Trends, Challenges, and Opportunities}
+      \field{volume}{6}
+      \field{year}{2024}
+      \field{pages}{1\bibrangedash 21}
+      \range{pages}{21}
+      \verb{urlraw}
+      \verb https://www.ijfmr.com
+      \endverb
+      \verb{url}
+      \verb https://www.ijfmr.com
+      \endverb
+    \endentry
+    \entry{Yusuf2024}{article}{}{}
+      \name{author}{6}{}{%
+        {{hash=523ade9e91e13a9729ccf7c6d3bcdb77}{%
+           family={Yusuf},
+           familyi={Y\bibinitperiod},
+           given={Samuel\bibnamedelima Omokhafe},
+           giveni={S\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+        {{hash=1fc573d5d4a3dec7fd116efab7a0fed3}{%
+           family={Durodola},
+           familyi={D\bibinitperiod},
+           given={Remilekun\bibnamedelima Lilian},
+           giveni={R\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=57bd3c8b568cb99c4fb9f9fc65d0458f}{%
+           family={Ocran},
+           familyi={O\bibinitperiod},
+           given={Godbless},
+           giveni={G\bibinitperiod}}}%
+        {{hash=954617025ac29746a23889341879c97c}{%
+           family={Abubakar},
+           familyi={A\bibinitperiod},
+           given={Justina\bibnamedelima Eweala},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=27111714615b7a70622def8a706a645f}{%
+           family={Echere},
+           familyi={E\bibinitperiod},
+           given={Amarachi\bibnamedelima Zita},
+           giveni={A\bibinitperiod\bibinitdelim Z\bibinitperiod}}}%
+        {{hash=58e91d08b6602865a910386ed4eadef9}{%
+           family={Paul-Adeleye},
+           familyi={P\bibinithyphendelim A\bibinitperiod},
+           given={Adedamola\bibnamedelima Hadassah},
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \strng{namehash}{5257101aa4415b551d761efea9dc14bd}
+      \strng{fullhash}{d28ae3f333b040d5498e3dd4042c9935}
+      \strng{fullhashraw}{d28ae3f333b040d5498e3dd4042c9935}
+      \strng{bibnamehash}{5257101aa4415b551d761efea9dc14bd}
+      \strng{authorbibnamehash}{5257101aa4415b551d761efea9dc14bd}
+      \strng{authornamehash}{5257101aa4415b551d761efea9dc14bd}
+      \strng{authorfullhash}{d28ae3f333b040d5498e3dd4042c9935}
+      \strng{authorfullhashraw}{d28ae3f333b040d5498e3dd4042c9935}
+      \field{labelalpha}{Yus+24}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Challenges and opportunities in AI and digital transformation for SMEs: A cross-continental perspective}
+      \field{year}{2024}
+      \verb{doi}
+      \verb 10.30574/wjarr.2024.23.3.2511
+      \endverb
+    \endentry
+    \entry{Barbieri2025}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=e09a7e24e4db16e216a00516278cb68b}{%
+           family={Barbieri},
+           familyi={B\bibinitperiod},
+           given={Leonardo\bibnamedelima Moro},
+           giveni={L\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=b592a6586dc177aeaf9e6597b7101131}{%
+           family={Sott},
+           familyi={S\bibinitperiod},
+           given={Michele\bibnamedelima Kremer},
+           giveni={M\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{650567a5fce82dc6049aedc5cf760b5e}
+      \strng{fullhash}{650567a5fce82dc6049aedc5cf760b5e}
+      \strng{fullhashraw}{650567a5fce82dc6049aedc5cf760b5e}
+      \strng{bibnamehash}{650567a5fce82dc6049aedc5cf760b5e}
+      \strng{authorbibnamehash}{650567a5fce82dc6049aedc5cf760b5e}
+      \strng{authornamehash}{650567a5fce82dc6049aedc5cf760b5e}
+      \strng{authorfullhash}{650567a5fce82dc6049aedc5cf760b5e}
+      \strng{authorfullhashraw}{650567a5fce82dc6049aedc5cf760b5e}
+      \field{labelalpha}{BS25}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eid}{e2624}
+      \field{journaltitle}{{REGEPE} Entrepreneurship and Small Business Journal}
+      \field{title}{Critical Success Factors in the Implementation of Cloud {ERP} in {SMEs}: A Case Study in Brazilian Organizations}
+      \field{volume}{14}
+      \field{year}{2025}
+      \verb{doi}
+      \verb 10.14211/regepe.esbj.e2624
+      \endverb
+      \keyw{small and medium enterprises,SMEs,critical success factors,Cloud ERP}
+    \endentry
+  \enddatalist
+\endrefsection
 \endinput
 
